@@ -1,0 +1,105 @@
+{
+  "short_name": "Eli",
+  "name": "Eli Bot Website",
+  "icons": [
+    {
+      "src": "./images/avatar.png",
+      "sizes": "196x196",
+      "type": "image/gif"
+    },
+    {
+      "src": "./images/bannerSide.webp",
+      "sizes": "253x462",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/moderation.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/automation.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/reaction-roles.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/settings.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/utility.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/leveling.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/statistics.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/giveaways.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/reminders.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/starboard.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/search.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/gifs.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/fun.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/memes.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/economy.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/gambling.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    },
+    {
+      "src": "./images/profile.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
